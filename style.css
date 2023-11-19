@@ -1,0 +1,49 @@
+.head {
+    width: 351;
+    height: 113;
+    text-align: center;
+}
+
+.conteiner {
+    width: 90%;
+    margin: auto;
+}
+
+div{
+    text-align: center;
+}
+.box{
+    background-color: #EEEEEE;
+}
+.box1{
+    background-color: #7EE5DA; 
+    width: 400px;
+    height: 60px;
+    text-align: center;
+    float:left ;
+    padding: 10px 0;
+    margin-top: 2px;
+    margin-right: 0;
+}
+.box2{
+    background-color:aquamarine;
+    width: 160px;
+    height: 60px;
+    text-align: center;
+    float: left;
+    padding: 10px 0 ; 
+    margin-top:2px; 
+    margin-right:0; 
+}
+.box3{
+    background-color: #62b3aa; 
+    text-align: center;
+    width: 655px;
+    float: left;
+    padding: 0;
+    margin: 2px auto auto 0;
+    height: 80px;
+}
+p{
+    font-size: smaller; 
+}
